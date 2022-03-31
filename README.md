@@ -1,41 +1,15 @@
 # JavaScript Interview Questions & Answers
-
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
-Go to [Coding Exercise](#coding-exercise) for coding specific questions
-
-## Download PDF/Epub formats
-
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
+> Here you find a list of JavaScript interview questions with answers and full explanation based on code examples. 
 
 ---
-<p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo">
-  </a>
-  <p align="center">
-    <ol>
-    <li>Take this <a href=https://links.zerotomastery.io/jsp_sudheer>JavaScript Projects</a> course to go from a JavaScript beginner to confidently building your own projects</li>
-    <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer2>coding interview bootcamp</a> if you’re serious about getting hired and don’t have a CS degree</li>
-    <li>Take this <a href=https://links.zerotomastery.io/ajs_sudheer>Advanced JavaScript Course</a> to learn advanced JS concepts and become a top JS developer</li>
-    </ol>
-  </p>
-</p>
-
+#### Useful links
+- [Coding Exercise](#coding-exercise) - Examples of coding specific JS questions
+- [JS Basics (rus)](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) - YouTube playlist of short JS lessons
+- [JS Tutorial (eng)](https://javascript.info/)
+- [JS Tutorial (ru)](https://learn.javascript.ru/)
 ---
-<div align="center">
-    <p>
-        <a href="https://www.youtube.com/watch?v=Zb4dPi7CANU">
-            JavaScript Interview Questions | Top JavaScript Interview Questions and Answers.
-            <div>
-                <img src="https://img.youtube.com/vi/Zb4dPi7CANU/0.jpg" width="220" height="150" alt="JavaScript">
-            </div>
-        </a>
-    </p>
-</div>
 
----
-### Table of Contents
+## Questions
 
 | No. | Questions |
 |---- | ---------
@@ -469,6 +443,8 @@ You can download the PDF and Epub version of this repository from the latest run
 |428| [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)|
 |429| [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-set-timeout-,-set-immediate-and-processnext-tick)|
 |430| [How do you reverse an array without modifying original array?](#how-do-you-reverse-an-array-without-modifying-original-array)|
+
+## Explanation
 
 1. ### What are the possible ways to create objects in JavaScript
 
